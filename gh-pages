@@ -1,0 +1,13 @@
+535 git clone https://github.com/ccckmit/hello.git
+536 ls
+537 cd hello
+538 ls
+539 git add -A
+540 git commit -am "init"
+541 ls
+542 git push origin master
+543 git branch gh-pages
+544 git checkout gh-pages
+545 git status
+546 git push origin gh-pages
+547 history
